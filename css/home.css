@@ -305,7 +305,7 @@ section.package .box-two {
 body {
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent;
-    background-color: rgba(248, 248, 248);
+    background-color: #f4f0ed;
     color: var(--bs-body-color);
     font-family: var(--bs-body-font-family);
     font-size: var(--bs-body-font-size);
@@ -1179,7 +1179,7 @@ section.brands .brand-slider .splide__slide {
 }
 
 header {
-    background: #F8F8F8;
+    background: #f4f0ed ;
     left: 0;
     margin: 0 auto;
     position: fixed;
